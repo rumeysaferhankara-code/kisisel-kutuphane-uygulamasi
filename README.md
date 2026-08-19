@@ -18,5 +18,7 @@ Bu proje, kullanıcıların okudukları ve okuyacakları kitapları düzenli bir
 ## 💻 Nasıl Çalıştırılır?
 
 1. Proje dosyalarını bilgisayarınıza indirin veya klonlayın:
-   ```bash
    git clone [https://github.com/rumeysaferhankara-code/kisisel-kutuphane-uygulamasi.git](https://github.com/rumeysaferhankara-code/kisisel-kutuphane-uygulamasi.git)
+
+2. Terminal veya komut satırından proje klasörüne gidin ve uygulamayı çalıştırın:
+   python kitap.py
